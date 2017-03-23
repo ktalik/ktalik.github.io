@@ -1,0 +1,129 @@
+
+/**
+ * Solarized color scheme
+ * Konrad Talik <konradtalik@gmail.com>
+ */
+
+/* Dark background tones */
+
+/* Dark background */
+.bc-base03 {
+    background-color: #002b36;
+}
+
+.c-base03 {
+    color: #002b36;
+}
+
+/* Dark background highlighted */
+.bc-base02 {
+    background-color: #073642;
+}
+
+.c-base02 {
+    color: #073642;
+}
+
+/* Content tones */
+.c-base01 {
+    color: #586e75;
+}
+
+.c-base00 { 
+    color: #657b83;
+}
+
+.c-base0 {
+    color: #839496;
+}
+
+.c-base1 {
+    color: #93a1a1;
+}
+
+/* Light background tones */
+
+/* Light background */
+.bc-base2 {
+    background-color: #eee8d5;
+}
+
+.c-base2 {
+    color: #eee8d5;
+}
+
+/* Light background highlighted */
+.bc-base3 {
+    background-color: #fdf6e3;
+}
+
+.c-base3 {
+    color: #fdf6e3;
+}
+
+/* Colors */
+
+.bc-yellow {
+    background-color: #b58900; 
+}
+
+.c-yellow {
+    color: #b58900; 
+}
+
+.bc-orange {
+    background-color: #cb4b16;
+}
+
+.c-orange {
+    color: #cb4b16;
+}
+
+.bc-red {
+    background-color: #dc322f;
+}
+
+.c-red {
+    color: #dc322f;
+}
+
+.bc-magenta {
+    background-color: #d33682;
+}
+
+.c-magenta {
+    color: #d33682;
+}
+
+.bc-violet {
+    background-color: #6c71c4;
+}
+
+.c-violet {
+    color: #6c71c4;
+}
+
+.bc-blue {
+    background-color: #268bd2;
+}
+
+.c-blue {
+    color: #268bd2;
+}
+
+.bc-cyan {
+    background-color: #2aa198;
+}
+
+.c-cyan {
+    color: #2aa198;
+}
+
+.bc-green {
+    background-color: #859900;
+}
+
+.c-green {
+    color: #859900;
+}
+
